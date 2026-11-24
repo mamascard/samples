@@ -2,6 +2,9 @@
 
 Ready-to-install builds of the three Mama's Card applications, for demonstrations and pilots.
 **Download them from [Releases](https://github.com/mamascard/samples/releases/latest).**
+A printable one-page guide with every link and a QR code to scan: [Mamas-Card-Download-the-Apps.pdf](Mamas-Card-Download-the-Apps.pdf).
+
+**WhatsApp chatbot:** [wa.me/message/DFK6P273XQETP1](https://wa.me/message/DFK6P273XQETP1), for mothers on any phone with WhatsApp.
 
 | App | Who it is for | Android | Windows |
 |---|---|---|---|
